@@ -1,0 +1,5 @@
+lights 1
+bounces 0
+wall 1
+lightType 0
+shadows 1
