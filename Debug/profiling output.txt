@@ -1,0 +1,5620 @@
+Initiating query reports
+Initiating query reports
+Initiating query reports
+Initiating query reports
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms
+query[intcol]: 0 ms
+query[primary rays]: 0 ms
+Initiating query reports
+query[fullUpdate]: 0 ms

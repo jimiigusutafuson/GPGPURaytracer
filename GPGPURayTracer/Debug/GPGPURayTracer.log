@@ -1,0 +1,17 @@
+﻿  RayTracer.cpp
+c:\users\newpurple\documents\visual studio 2015\projects\gpgpuraytracer\gpgpuraytracer\raytracer.cpp(57): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\newpurple\documents\visual studio 2015\projects\gpgpuraytracer\gpgpuraytracer\raytracer.cpp(126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\newpurple\documents\visual studio 2015\projects\gpgpuraytracer\gpgpuraytracer\main.cpp(367): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\newpurple\documents\visual studio 2015\projects\gpgpuraytracer\gpgpuraytracer\main.cpp(373): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\newpurple\documents\visual studio 2015\projects\gpgpuraytracer\gpgpuraytracer\main.cpp(379): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Generating Code...
+  Generating non-SAFESEH image.
+  Starting pass 2
+       RayTracer.obj
+       Main.obj
+       MSVCRTD.lib(loadcfg.obj)
+  Finished pass 2
+  GPGPURayTracer.vcxproj -> C:\Users\newpurple\Documents\Visual Studio 2015\Projects\GPGPURayTracer\Debug\GPGPURayTracer.exe
+  GPGPURayTracer.vcxproj -> C:\Users\newpurple\Documents\Visual Studio 2015\Projects\GPGPURayTracer\Debug\GPGPURayTracer.pdb (Full PDB)
