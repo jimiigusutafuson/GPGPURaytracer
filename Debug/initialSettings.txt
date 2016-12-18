@@ -1,5 +1,0 @@
-lights 1
-bounces 0
-wall 0
-lightType 0
-shadows 1
